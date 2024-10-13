@@ -1,0 +1,7 @@
+pandas
+numpy
+transformers
+bertopic
+spacy
+tqdm
+streamlit
